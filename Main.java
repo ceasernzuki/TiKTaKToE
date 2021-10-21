@@ -102,10 +102,6 @@ public class Main {
                     return "CAT"
                 }
             }
-
-
-
             return "";
-
         }
 }
